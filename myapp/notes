@@ -1,0 +1,17 @@
+python framework
+django is back _end server side web framework.
+free,opensource and written in python
+makes it easier to build web pages using python
+
+mvt design pattern
+MODEL VIEW TEMPLATE
+1.model=data gfrom the database
+(models.py)
+2. view=http request as arguments
+(views.py)
+3.templates
+html files
+urls-views.py-models.py-templates 
+
+authentication= username,password correct  aano nn check cheyyunnu
+authorization=permission grand cheyth kodukkunnu
